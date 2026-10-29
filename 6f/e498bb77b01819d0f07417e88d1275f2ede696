@@ -1,0 +1,16 @@
+crates/hir-ty-borrowck/src/qualifs.rs
+  h_aaa6734ea48bd5 10,12,110,125-134,140,142-144,171,191-227
+harness/breakers/cases/src/promoted_record_spread.rs
+  h_aaa6734ea48bd5 36-61,69,71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6fe498bb77b01819d0f07417e88d1275f2ede696",
+  "prompts": {},
+  "humans": {
+    "h_aaa6734ea48bd5": {
+      "author": "Jaden Maciel-Shapiro <195352788+jadenmaciel@users.noreply.github.com>"
+    }
+  }
+}
