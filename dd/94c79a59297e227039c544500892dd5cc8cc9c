@@ -1,0 +1,22 @@
+CHANGELOG.md
+  h_aaa6734ea48bd5 27-30
+crates/hir-ty-borrowck/src/qualifs.rs
+  h_aaa6734ea48bd5 122-130
+crates/hir-ty-mir/src/mir/lower.rs
+  h_aaa6734ea48bd5 2834-2836,2867-2876
+harness/breakers/cases/src/lib.rs
+  h_aaa6734ea48bd5 214
+harness/breakers/cases/src/promoted_record_spread.rs
+  h_aaa6734ea48bd5 1-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dd94c79a59297e227039c544500892dd5cc8cc9c",
+  "prompts": {},
+  "humans": {
+    "h_aaa6734ea48bd5": {
+      "author": "Jaden Maciel-Shapiro <195352788+jadenmaciel@users.noreply.github.com>"
+    }
+  }
+}
