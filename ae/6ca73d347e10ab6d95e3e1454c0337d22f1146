@@ -1,0 +1,56 @@
+.github/blaze-version
+  h_aaa6734ea48bd5 1
+CHANGELOG.md
+  h_aaa6734ea48bd5 35-36
+crates/blaze-cargo/src/cargo/daemon.rs
+  h_aaa6734ea48bd5 2218-2222,2233-2258,2528-2551
+crates/blaze-cargo/src/cargo/own_script.rs
+  h_aaa6734ea48bd5 638-644,649-661,848-860
+crates/blaze-engine/src/admit.rs
+  h_aaa6734ea48bd5 69-76,127-131
+crates/blaze-engine/src/lib.rs
+  h_aaa6734ea48bd5 14,1425-1428,3823-3824,4248-4249,4253-4283,4295,4303,4306,4311-4341,5047,5304-5305,10680-10683,10724-10728,11813-11864
+crates/blaze-wasm/src/lib.rs
+  h_aaa6734ea48bd5 510-513
+crates/blaze-wasm/src/names.rs
+  h_aaa6734ea48bd5 259-262
+crates/hir-ide/src/tests/mir/eval.rs
+  h_aaa6734ea48bd5 1082-1108,1111-1121,1127-1134,1136-1143,1150-1151
+crates/hir-ty-codegen/mod.rs
+  h_aaa6734ea48bd5 317-319,1345,3057-3059,3062,3069-3070,5752
+crates/hir-ty-codegen/patch.rs
+  h_aaa6734ea48bd5 1233
+crates/hir-ty-codegen/settled.rs
+  h_aaa6734ea48bd5 42
+crates/hir-ty-mir/src/mir/eval/shim.rs
+  h_aaa6734ea48bd5 389-398,400-429,540-552
+crates/hir/src/lib.rs
+  h_aaa6734ea48bd5 28,154
+crates/hir/src/named.rs
+  h_aaa6734ea48bd5 1-258
+docs/benchmarks/history/macos-arm64-live.jsonl
+  h_aaa6734ea48bd5 12
+docs/cargo.md
+  h_aaa6734ea48bd5 123-124,126-131
+docs/harness.md
+  h_aaa6734ea48bd5 200
+docs/memory-budget.md
+  h_aaa6734ea48bd5 185-187
+harness/ci.py
+  h_aaa6734ea48bd5 100-101
+harness/unittests.py
+  h_aaa6734ea48bd5 105-157,219-224
+harness/unnamedcrates.py
+  h_aaa6734ea48bd5 1-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ae6ca73d347e10ab6d95e3e1454c0337d22f1146",
+  "prompts": {},
+  "humans": {
+    "h_aaa6734ea48bd5": {
+      "author": "Jaden Maciel-Shapiro <195352788+jadenmaciel@users.noreply.github.com>"
+    }
+  }
+}
